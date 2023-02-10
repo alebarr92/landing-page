@@ -138,3 +138,9 @@ img {
     border-color: white;
     
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
